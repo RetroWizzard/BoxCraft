@@ -1,2 +1,2 @@
-Welcome to RetroWizzard's first try of a github page.
+Welcome to RetroWizzard's first try at a github page.
 Please bear with me and my rookie mistakes for a while...
